@@ -1,2 +1,2 @@
-# ReverseShell
-A reverse shell script
+# Dangerous script
+Some very dangerous script
